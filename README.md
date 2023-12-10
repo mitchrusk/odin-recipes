@@ -1,1 +1,1 @@
-This is my first webpage project from the https://theodinproject.org web development course.
+This is my first webpage project from the https://theodinproject.com web development course.
